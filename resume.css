@@ -1,0 +1,94 @@
+body {    
+    /* for print */
+    font-family: "Book Antiqua", serif;
+/*    font-size: 12px;*/
+
+    /* for web */
+/*    font-family: "Calibri";*/
+    font-size: 16px;
+    
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#name {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.info {
+    font-style: italic;
+    font-size: 0.75em;
+}
+
+#contact {
+    font-weight: bold;
+}
+
+#address {
+    margin-bottom: 2px;
+}
+
+.sectiontitle {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.divider {
+    border-bottom: 1px inset #aaa;
+    margin-bottom: 4px;
+}
+
+.itemtitle {
+    display: inline-block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.itemdate {
+    display: inline-block;
+    position: absolute;
+    right: 9px;
+    margin-bottom: 0px;
+}
+
+.content {
+    font-size: 0.75em;
+    line-height: 1.5em;
+}
+
+ul#educationlist {
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+
+li {
+    margin-bottom: 2px;
+}
+
+#coursework {
+    font-weight: bold;
+}
+
+.itemsubtitle {
+    font-size: 1.1em;
+    font-style: italic;
+    margin-bottom: 2px;
+}
+
+.itemlocation {
+    font-style: normal;
+    padding-left: 4px;
+}
+
+ul.itemlist {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    line-height: 1.25em;
+}
